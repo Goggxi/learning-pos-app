@@ -1,0 +1,18 @@
+export const MENU_LIST = [
+  {
+    name: 'Home',
+    path: '/',
+  },
+  {
+    name: 'Transaction',
+    path: '/transaction',
+  },
+  {
+    name: 'Contact',
+    path: '/contact',
+  },
+  {
+    name: 'Setting',
+    path: '/setting',
+  },
+];
